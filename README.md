@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+<img src="https://www.gettyimages.com/detail/video/neon-effect-circle-frame-loop-background-4k-stock-footage/1393616369?adppopup=true" alt="">
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently an *IT undergraduate at CINEC Campus*
