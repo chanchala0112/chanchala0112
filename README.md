@@ -9,7 +9,8 @@
 </p>
 
 ---
-<img src="https://www.gettyimages.com/detail/video/neon-effect-circle-frame-loop-background-4k-stock-footage/1393616369?adppopup=true" alt="">
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dblue%2Banimation&psig=AOvVaw3I_nZml7UWRCpyvpBWY6wC&ust=1749925940017000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCO-5Cc640DFQAAAAAdAAAAABAE" alt="">
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently an *IT undergraduate at CINEC Campus*
@@ -20,7 +21,7 @@
 
 ---
 ### 🌐 Connect with Me
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/c34zpnffktbxr71pqmgcc2umfmlorsdjtoozsc5gr6litoozp6zdr6litoovejavejrapnhppnlnpl9jtmucjaz9l4bjjr0zuk9opmhojthbpshftopqrclqrcbvsclhpmlpns9lqbyotchxs6xzrdlxr3rainhbpshftoomfmvlqnhfsszgt6ldp6bt9z0kc3rbsczzkt9d9zrool1ipl9opoozp6zdr6liscscc3rkrsbqqndlk71rrt9d9zavejavfmhbt7dbtn5bkcrrjd1rrt9d9dhitm5cpmgzp4bmtmzopopejqbkildfk3rvgd9bp79l9dhitm5cpmgzp4bqrcljpslp9dhkpnhkqjrainhlr7cct6nrompbp3rainhrrtbxr2ootchxs6xzrdlxr3rbrm5epmtxs2pet7tlscszp4bms64cejgmcpaofmh9rczfst9btyoucjaodpcpdj4nfmh9tipbdj5adcgpdzpxdmgjcjgoe2qopcgqbjorpj8jcj9bp3lcdjkzp4bqu6lqrczz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c34zpnffktbxr71pqmgcc2umfmlorsdjtoozsc5gr6litoozp6zdr6litoovejavejrapnhppnlnpl9jtmucjaz9l4bjjr0zuk9opmhojthbpshftopqrclqrcbvsclhpmlpns9lqbyotchxs6xzrdlxr3rainhbpshftoomfmvlqnhfsszgt6ldp6bt9z0kc3rbsczzkt9d9zrool1ipl9opoozp6zdr6liscscc3rkrsbqqndlk71rrt9d9zavejavfmhbt7dbtn5bkcrrjd1rrt9d9dhitm5cpmgzp4bmtmzopopejqbkildfk3rvgd9bp79l9dhitm5cpmgzp4bqrcljpslp9dhkpnhkqjrainhlr7cct6nrompbp3rainhrrtbxr2ootchxs6xzrdlxr3rbrm5epmtxs2pet7tlscszp4bms64cejgmcpaofmh9rczfst9btyoucjaodpcpdj4nfmh9tipbdj5adcgpdzpxdmgjcjgoe2qopcgqbjorpj8jcj9bp3lcdjkzp4bqu6lqrczz" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_chanchi_j_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_chanchi_j_/" height="30" width="40" /></a>
