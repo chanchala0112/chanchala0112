@@ -33,16 +33,20 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InukaMapa&theme=onedark" alt="Inuka Mapa GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chanchala0112&theme=onedark" alt="Chanchala Jeewanthi GitHub Trophy" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchala0112&show_icons=true&locale=en&layout=compact" alt="chanchala0112" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchala0112&show_icons=true&locale=en&layout=compact" alt="chanchala0112 Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchala0112&show_icons=true&locale=en" alt="chanchala0112" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchala0112&show_icons=true&locale=en" alt="chanchala0112 GitHub Stats" />
+</p>
 
 
 
